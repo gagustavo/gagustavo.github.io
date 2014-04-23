@@ -56,6 +56,11 @@ body {
     padding: 0 20px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
 }
+
+.cover a:hover {
+   color: #EFEFEF;
+}
+
 .cover .btn-lg {
     padding: 10px 20px;
     font-weight: bold;

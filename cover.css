@@ -32,7 +32,7 @@ html,
 body {
     height: 100%;
     background-color: #6F768F;
-    background-image: url('https://farm4.staticflickr.com/3729/9726696299_caf0179a22_o.jpg');
+    /*background-image: url('https://farm4.staticflickr.com/3729/9726696299_caf0179a22_o.jpg');*/
     background-image: url('https://farm3.staticflickr.com/2830/9726540265_a98266d096_o.jpg');
     background-repeat: no-repeat;
     background-size: cover;
